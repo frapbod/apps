@@ -1,6 +1,11 @@
 # Changelog<br>
 
 
+<a name="sonarr-10.0.11"></a>
+### [sonarr-10.0.11](https://github.com/truecharts/apps/compare/sonarr-10.0.10...sonarr-10.0.11) (2022-04-07)
+
+
+
 <a name="sonarr-10.0.10"></a>
 ### [sonarr-10.0.10](https://github.com/truecharts/apps/compare/sonarr-10.0.9...sonarr-10.0.10) (2022-04-03)
 
