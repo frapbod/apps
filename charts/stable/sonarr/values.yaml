@@ -73,6 +73,6 @@ metrics:
       # -- metrics port
       port: 9794
       # -- Set to true to enable gathering of additional metrics (slow)
-      additionalMetrics: false
+      additionalMetrics: true
       # -- Set to true to enable gathering unknown queue items
       unknownQueueItems: false
