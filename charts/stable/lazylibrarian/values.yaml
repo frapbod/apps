@@ -23,3 +23,11 @@ persistence:
     mountPath: "/config"
   varrun:
     enabled: true
+
+dockerMods:
+  ffmpeg:
+    enabled: true
+    image:
+      repository: linuxserver/mods
+      tag: lazylibrarian-ffmpeg
+
