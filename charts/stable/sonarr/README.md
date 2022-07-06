@@ -1,6 +1,6 @@
 # sonarr
 
-![Version: 10.0.11](https://img.shields.io/badge/Version-10.0.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.0.7.1477](https://img.shields.io/badge/AppVersion-3.0.7.1477-informational?style=flat-square)
+![Version: 10.0.14](https://img.shields.io/badge/Version-10.0.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.0.7.1477](https://img.shields.io/badge/AppVersion-3.0.7.1477-informational?style=flat-square)
 
 Smart PVR for newsgroup and bittorrent users
 
@@ -32,7 +32,7 @@ Kubernetes: `>=1.16.0-0`
 | image.repository | string | `"tccr.io/truecharts/sonarr"` |  |
 | image.tag | string | `"v3.0.7.1477@sha256:a14027b732b5abe71854d48f76872e8bd0ff25d2b640e5f025bb30d96dfa73ec"` |  |
 | metrics.enabled | bool | See values.yaml | Enable and configure Exportarr sidecar and Prometheus serviceMonitor. |
-| metrics.exporter.env.additionalMetrics | bool | `false` | Set to true to enable gathering of additional metrics (slow) |
+| metrics.exporter.env.additionalMetrics | bool | `true` | Set to true to enable gathering of additional metrics (slow) |
 | metrics.exporter.env.port | int | `9794` | metrics port |
 | metrics.exporter.env.unknownQueueItems | bool | `false` | Set to true to enable gathering unknown queue items |
 | metrics.exporter.image.pullPolicy | string | `"IfNotPresent"` | image pull policy |

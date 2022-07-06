@@ -54,3 +54,4 @@ website/
 pub/
 docs/
 
+.github/workflows/charts-release.yaml
