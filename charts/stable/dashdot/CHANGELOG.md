@@ -1,6 +1,51 @@
 # Changelog<br>
 
 
+<a name="dashdot-1.0.16"></a>
+### [dashdot-1.0.16](https://github.com/truecharts/apps/compare/dashdot-1.0.15...dashdot-1.0.16) (2022-07-08)
+
+#### Chore
+
+* add some envs ([#3100](https://github.com/truecharts/apps/issues/3100))
+
+
+
+<a name="dashdot-1.0.15"></a>
+### [dashdot-1.0.15](https://github.com/truecharts/apps/compare/dashdot-1.0.14...dashdot-1.0.15) (2022-07-08)
+
+#### Chore
+
+* update docker general non-major ([#3099](https://github.com/truecharts/apps/issues/3099))
+
+
+
+<a name="dashdot-1.0.14"></a>
+### [dashdot-1.0.14](https://github.com/truecharts/apps/compare/dashdot-1.0.13...dashdot-1.0.14) (2022-07-07)
+
+#### Chore
+
+* update docker general non-major ([#3089](https://github.com/truecharts/apps/issues/3089))
+
+
+
+<a name="dashdot-1.0.13"></a>
+### [dashdot-1.0.13](https://github.com/truecharts/apps/compare/dashdot-1.0.12...dashdot-1.0.13) (2022-07-06)
+
+#### Chore
+
+* apply some changes to be insync with the new app release ([#3082](https://github.com/truecharts/apps/issues/3082))
+
+
+
+<a name="dashdot-1.0.12"></a>
+### [dashdot-1.0.12](https://github.com/truecharts/apps/compare/dashdot-1.0.11...dashdot-1.0.12) (2022-07-06)
+
+#### Chore
+
+* update container image tccr.io/truecharts/dashdot to v4.0.0 ([#3079](https://github.com/truecharts/apps/issues/3079))
+
+
+
 <a name="dashdot-1.0.11"></a>
 ### [dashdot-1.0.11](https://github.com/truecharts/apps/compare/dashdot-1.0.10...dashdot-1.0.11) (2022-07-04)
 

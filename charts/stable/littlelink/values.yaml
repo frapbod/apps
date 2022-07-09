@@ -1,7 +1,7 @@
 image:
   repository: tccr.io/truecharts/littlelink-server
   pullPolicy: IfNotPresent
-  tag: latest@sha256:5a165ef8cf902fe88ae4dd6824b38505c6309fa75ecb7098c1253fabab3ffb13
+  tag: latest@sha256:22a6762f10b82b5ef5e2cb00533f4edf1257128f5b31f5f41d995366c1af28d2
 
 service:
   main:
