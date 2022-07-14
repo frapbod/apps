@@ -53,3 +53,4 @@ chartsrepo/
 website/
 pub/
 docs/
+secrets.ini
