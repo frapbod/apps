@@ -4,6 +4,8 @@ but still unable to perform the ffmpeg edit I was attempting.
 
 run `tools/build-release.sh -s` while running the truecharts devcontainer in VS code from the workspaces/apps directory
 
+            don't forget to have docker desktop running as the devcontainer uses that to run the container otherwise it will keep failing
+
 
 .devcontainer
         from within the apps directory is important. Have visual studio code build the container using it
